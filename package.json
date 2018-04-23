@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "chromedriver": "^2.33.2",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.0.7",
+    "mongoose": "^5.0.15",
     "selenium-webdriver": "^3.6.0"
   }
 }
